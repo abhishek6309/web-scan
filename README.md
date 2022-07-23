@@ -1,3 +1,3 @@
 # web-scan
 
-website vulnerability
+website vulnerability scanner
