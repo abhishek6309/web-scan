@@ -1,3 +1,3 @@
 # web-scan
 
-website vulnerability scanner using python
+Interactive website vulnerability scanner using python
